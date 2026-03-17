@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "json": "^11.0.0",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.3.0",
+    "mongose": "^0.0.2-security"
+  },
+  "name": "curso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
